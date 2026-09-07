@@ -1,6 +1,6 @@
 [
   {
-    "Author": "TACMON1",
+    "Author": "TACMON",
     "Name": "AFK Emote",
     "Punchline": "Automatic AFK emotes, your way.",
     "Description": "Plays a chosen emote after configurable idle time, then sets AFK status.",
