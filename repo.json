@@ -5,7 +5,7 @@
     "Punchline": "Automatic AFK emotes, your way.",
     "Description": "Plays a chosen emote after configurable idle time, then sets AFK status.",
     "InternalName": "AfkaEmote",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/TACMON1/TacoPlugins",
