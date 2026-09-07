@@ -9,7 +9,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/TACMON1/TacoPlugins",
-    "DownloadLinkInstall": "https://github.com/TACMON1/TacoPlugins/releases/download/v1.0.3/AfkaEmote.zip",
+    "DownloadLinkInstall": "https://github.com/TACMON1/TacoPlugins/releases/download/AfkaEmote.zip",
     "DownloadLinkUpdate": "https://github.com/TACMON1/TacoPlugins/releases/latest/download/AfkaEmote.zip",
     "IconUrl": "https://raw.githubusercontent.com/TACMON1/TacoPlugins/main/AFKEmoteIcon.png",
     "DownloadCount": 0,
